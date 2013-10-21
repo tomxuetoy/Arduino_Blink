@@ -1,0 +1,4 @@
+Tool: Wiring
+Serial Port: Wiring -> Tools -> Serial Port -> COMx
+Serial Monitor: Wiring -> Tools -> Serial Monitor, can set baud rate and communicate with Arduino, etc
+Board: Wiring -> Tools -> Board -> Arduino -> Arduino Uno @ 16MHz
